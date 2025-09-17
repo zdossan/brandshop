@@ -6,7 +6,8 @@ const products = [
 		stars:4.5,
 		count:87
 	},
-	priceCents: 1090
+	priceCents: 1090,
+	id:1
 },
 {
 	image: 'assets/products/clampBrown.jpg',
@@ -15,7 +16,8 @@ const products = [
 		stars:4,
 		count:127
 	},
-	priceCents: 650
+	priceCents: 650,
+	id:2
 },{
 	image: 'assets/products/polo.jpg',
 	name: 'Поло',
@@ -23,7 +25,8 @@ const products = [
 		stars:4.5,
 		count:56
 	},
-	priceCents: 1200
+	priceCents: 1200,
+	id:3
 },{
   image:'assets/products/costume.jpg',
   name:'Костюм',
@@ -31,5 +34,6 @@ const products = [
     stars:5,
     count:4
   },
-  priceCents: 5600
+  priceCents: 5600,
+	id:4
 }];
